@@ -1,0 +1,12 @@
+{
+    // Eplorer
+    "workbench.tree.indent": 32,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.colorCustomizations": {
+        "tree.indentGuidesStroke": "#b5a7fdbb",
+        "tree.inactiveIndentGuidesStroke": "#444"
+    },
+
+    // Editor
+    "editor.guides.bracketPairs": true
+}
