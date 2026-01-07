@@ -1,4 +1,8 @@
 {
+
+    // Disable MSlope
+    "chat.disableAIFeatures": true,
+
     // Eplorer
     "workbench.tree.indent": 32,
     "workbench.tree.renderIndentGuides": "always",
