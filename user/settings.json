@@ -3,6 +3,16 @@
     // Disable MSlope
     "chat.disableAIFeatures": true,
 
+    // Telemetry
+    "telemetry.telemetryLevel": "off",
+    "telemetry.editStats.enabled": false,
+    "telemetry.feedback.enabled": false,
+    "telemetry.editStats.details.enabled": false,
+    "telemetry.editStats.showDecorations": false,
+    "telemetry.editStats.showStatusBar": false,
+    "editor.experimental.treeSitterTelemetry": false,
+    
+
     // Eplorer
     "workbench.tree.indent": 32,
     "workbench.tree.renderIndentGuides": "always",
